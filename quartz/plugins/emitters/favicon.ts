@@ -13,7 +13,7 @@ export const Favicon: QuartzEmitterPlugin = () => ({
 
     yield write({
       ctx: { argv } as BuildCtx,
-      slug: "favicon" as FullSlug,
+      slug: "favicon-v2" as FullSlug,
       ext: ".ico",
       content: faviconContent,
     })
