@@ -1,10 +1,6 @@
 ---
-title: Welcome
+title: Welcome to Quartz
 ---
-<img src="./banner.svg" width="701" height="175">
 
-
-...you are in the void right now...
-
-
-Site is in process of being re-architectured...
+This is a blank Quartz installation.
+See the [documentation](https://quartz.jzhao.xyz) for how to get started.
