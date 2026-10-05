@@ -18,6 +18,12 @@ const recentNotes = [
   }),
 ]
 
+// random two-tone plate under the graph, everywhere except the homepage
+const postPlate = Component.ConditionalRender({
+  component: Component.PostPlate(),
+  condition: ({ fileData }) => fileData.slug !== "index",
+})
+
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
@@ -59,6 +65,7 @@ export const defaultContentPageLayout: PageLayout = {
         showTags: false,
       },
     }),
+    postPlate,
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
@@ -68,5 +75,5 @@ export const defaultContentPageLayout: PageLayout = {
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [Component.ArticleTitle(), Component.ContentMeta()],
   left,
-  right: [],
+  right: [postPlate],
 }

@@ -24,6 +24,57 @@ img[src*="banner.svg"] {
   filter: invert(100%);
 }
 
+// homepage: blue two-tone Apollo
+:root {
+  --ink: #2726c8;
+}
+
+[saved-theme="dark"] {
+  --ink: #7c86ff;
+}
+
+body[data-slug="index"] {
+  .article-title,
+  .content-meta {
+    display: none;
+  }
+
+  .home-hero {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+    gap: 2rem;
+    align-items: end;
+    margin: 1rem 0 3rem;
+
+    @media #{$mobile} {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  // engraving is a white alpha mask so the ink colour follows the theme
+  .home-apollo {
+    aspect-ratio: 1100 / 1487;
+    background-color: var(--ink);
+    mask: url("/assets/home/apollo.png") center / contain no-repeat;
+    -webkit-mask: url("/assets/home/apollo.png") center / contain no-repeat;
+  }
+
+  .home-kicker {
+    font-family: var(--codeFont);
+    font-size: 0.75rem;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--ink);
+  }
+
+  .home-lede {
+    font-family: var(--headerFont);
+    font-size: 2rem;
+    line-height: 1.15;
+    color: var(--dark);
+  }
+}
+
 body[data-slug="thoughts/craft"] {
   & li:has(> img, > video) {
     list-style-type: none;
