@@ -3,6 +3,8 @@ title: "Zero-sum"
 date: 2021-10-26
 tags:
   - sapling
+  - economics
+  - philosophy
 ---
 
 As opposed to positive sum

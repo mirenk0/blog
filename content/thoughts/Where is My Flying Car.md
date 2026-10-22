@@ -4,6 +4,8 @@ date: "2023-09-04"
 tags:
   - seed
   - book
+  - economics
+  - technology
 ---
 
 > The question "Where is my flying car?," Wikipedia tells us, "is emblematic of the supposed failure of modern technology to match futuristic visions that were promoted in earlier decades". Flying cars have become a symbol of mismatch: the future as imagined in the first half the 20th century seemed a lot brighter than the present we're living in now.

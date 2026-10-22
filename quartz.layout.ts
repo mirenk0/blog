@@ -59,10 +59,10 @@ export const defaultContentPageLayout: PageLayout = {
   right: [
     Component.Graph({
       localGraph: {
-        showTags: false,
+        showTags: true,
       },
       globalGraph: {
-        showTags: false,
+        showTags: true,
       },
     }),
     postPlate,

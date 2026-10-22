@@ -3,6 +3,8 @@ title: "Technosolutionism"
 date: 2023-04-03
 tags:
   - seed
+  - politics
+  - technology
 aliases:
   - technosolutionist
 ---

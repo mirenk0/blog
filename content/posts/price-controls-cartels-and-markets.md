@@ -3,6 +3,9 @@ title: "Price Controls, Cartels, and the Stories We Tell About Markets"
 date: 2026-09-24
 tags:
   - writing
+  - economics
+  - politics
+  - history
 ---
 
 I have a soft spot for economic history. Not the charts-and-equations kind, but the stories: a besieged city, a war financed with printed money, a diamond cartel patrolling a coastline with gunboats. They make abstract ideas feel real. But lately I've noticed that a lot of these stories get told the same way every time, with the same ending, and I want to think through why that bothers me even when I mostly agree with the ending.

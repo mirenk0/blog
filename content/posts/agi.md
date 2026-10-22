@@ -4,6 +4,8 @@ date: 2022-11-02T16:17:37-08:00
 enableToc: true
 tags:
   - fruit
+  - philosophy
+  - technology
 aliases:
   - AGI
   - artificial general intelligence

@@ -3,6 +3,9 @@ title: "On Secession"
 date: 2024-09-18
 tags:
   - writing
+  - politics
+  - economics
+  - philosophy
 ---
 
 The nation and the state are not the same thing. The nation is the people: their language, culture, and communities. The state is the apparatus that taxes and governs them, and it lives off what they produce. Confusing the two is how centralisation gets sold as patriotism. Nothing about the last century of the Western world suggests that bigger, more centralised government has made nations more vital or more sure of who they are.
