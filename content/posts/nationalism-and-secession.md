@@ -1,17 +1,11 @@
 ---
-title: "Notes on Hoppe's 'Nationalism and Secession'"
+title: "On Secession"
 date: 2024-09-18
 tags:
   - writing
 ---
 
-I finally got around to reading Hans-Hermann Hoppe's short 1993 essay [Nationalism and Secession](https://youtu.be/FALTTxOSD9s). It was written just after communism fell, when Yugoslavia was breaking apart, Czechoslovakia had split, and new states were appearing all over the former Soviet Union. Most commentators saw this as a step backwards. Hoppe argued it might be the most progressive thing happening in the world.
-
-It stuck with me, so here are my notes.
-
-## Two kinds of integration
-
-The essay's main move is to separate two things we usually treat as one:
+[Hoppe's](https://youtu.be/FALTTxOSD9s) main move is to separate two things we usually treat as one:
 
 - **Political integration**: a government extending its power to tax and regulate over more territory.
 - **Economic integration**: more people trading and dividing labour across more places.
