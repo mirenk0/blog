@@ -7,8 +7,7 @@ title: mirenko.xyz
     <div class="home-apollo" role="img" aria-label="Engraving of the Apollo Belvedere"></div>
     <div class="home-intro">
       <p class="home-kicker">mirenko.xyz</p>
-      <p class="home-lede">Sensible on power.</p>
-      <p>If you are a bored retard, don't stay here. Otherwise; Salve!</p>
+      <p class="home-lede">Oikos</p>
     </div>
   </section>
 </div>
